@@ -1,0 +1,8 @@
+[package]
+name = "dec01"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+input_curler = { version = "0.1.0", path = "../input_curler" }
+regex = "1.10.2"
